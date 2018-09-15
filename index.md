@@ -1,6 +1,6 @@
 ## University Portal
 
-University Portal is a web based project which is a basic minimal attandance portal for a college/University.
+University Portal is a Servlet based Web project which is a basic minimal attandance portal for a College/University.
 
 • It can be used in an Intranet in a college/university and can be accessed by Student, Staff, Admin.
 
@@ -37,5 +37,7 @@ Admin can add new Student or Staff member.He manages their accounts if any probl
 - HTML
 - CSS
 - Javascript
+- MySql
 - Servlets
 - Eclipse 
+- MySql Workbench
