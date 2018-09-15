@@ -1,37 +1,41 @@
-## Welcome to GitHub Pages
+## University Portal
 
-You can use the [editor on GitHub](https://github.com/spaceimpactor/universityportal/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+University Portal is a web based project which is a basic minimal attandance portal for a college/University.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+• It can be used in an Intranet in a college/university and can be accessed by Student, Staff, Admin.
 
-### Markdown
+• Student can view his profile and attendance, staff can mark the attendance and view the absentees, the admin monitors student and staff profiles.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Modules of the Application
 
-```markdown
-Syntax highlighted code block
+It contains 3 modules
 
-# Header 1
-## Header 2
-### Header 3
+_A. STUDENT_
 
-- Bulleted
-- List
+_B. STAFF_
 
-1. Numbered
-2. List
+_C. ADMIN_
 
-**Bold** and _Italic_ and `Code` text
+--------------------------------------------
 
-[Link](url) and ![Image](src)
-```
+**A. STUDENT:**
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Student can view his profile and can check his attendance between certain intervals.
 
-### Jekyll Themes
+**B. STAFF:**
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/spaceimpactor/universityportal/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Staff can mark the attendance of a student according to period or class.Also staff can view the absentees list.
 
-### Support or Contact
+**C. ADMIN:**
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Admin can add new Student or Staff member.He manages their accounts if any problem persists, also he monitors the overall database.
+
+--------------------------------------------
+
+## Technologies and Tools used
+
+- HTML
+- CSS
+- Javascript
+- Servlets
+- Eclipse 
